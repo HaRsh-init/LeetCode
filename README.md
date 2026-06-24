@@ -16,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/HaRsh-init/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/HaRsh-init/LeetCode/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HaRsh-init/LeetCode/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/HaRsh-init/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
