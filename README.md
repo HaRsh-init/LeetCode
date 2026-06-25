@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HaRsh-init/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HaRsh-init/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/HaRsh-init/LeetCode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/HaRsh-init/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/HaRsh-init/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/HaRsh-init/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/HaRsh-init/LeetCode/tree/master/0066-plus-one) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HaRsh-init/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
