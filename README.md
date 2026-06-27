@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/HaRsh-init/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/HaRsh-init/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HaRsh-init/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/HaRsh-init/LeetCode/tree/master/0078-subsets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HaRsh-init/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
@@ -64,8 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HaRsh-init/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/HaRsh-init/LeetCode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HaRsh-init/LeetCode/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HaRsh-init/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
