@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HaRsh-init/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HaRsh-init/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/HaRsh-init/LeetCode/tree/master/0078-subsets) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HaRsh-init/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HaRsh-init/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HaRsh-init/LeetCode/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HaRsh-init/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HaRsh-init/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
