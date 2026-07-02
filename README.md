@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HaRsh-init/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HaRsh-init/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HaRsh-init/LeetCode/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/HaRsh-init/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HaRsh-init/LeetCode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HaRsh-init/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HaRsh-init/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HaRsh-init/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HaRsh-init/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HaRsh-init/LeetCode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HaRsh-init/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HaRsh-init/LeetCode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HaRsh-init/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HaRsh-init/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/HaRsh-init/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HaRsh-init/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
