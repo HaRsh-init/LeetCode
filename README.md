@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/HaRsh-init/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/HaRsh-init/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HaRsh-init/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/HaRsh-init/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HaRsh-init/LeetCode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/HaRsh-init/LeetCode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HaRsh-init/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/HaRsh-init/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/HaRsh-init/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/HaRsh-init/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HaRsh-init/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HaRsh-init/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
