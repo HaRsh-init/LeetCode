@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HaRsh-init/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/HaRsh-init/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/HaRsh-init/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HaRsh-init/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/HaRsh-init/LeetCode/tree/master/0060-permutation-sequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HaRsh-init/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HaRsh-init/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HaRsh-init/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/HaRsh-init/LeetCode/tree/master/0231-power-of-two) |
