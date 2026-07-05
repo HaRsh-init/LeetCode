@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HaRsh-init/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HaRsh-init/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HaRsh-init/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/HaRsh-init/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HaRsh-init/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HaRsh-init/LeetCode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HaRsh-init/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/HaRsh-init/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HaRsh-init/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HaRsh-init/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/HaRsh-init/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/HaRsh-init/LeetCode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/HaRsh-init/LeetCode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HaRsh-init/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
