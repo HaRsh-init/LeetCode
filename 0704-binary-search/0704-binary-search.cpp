@@ -3,7 +3,6 @@ public:
     int search(vector<int>& nums, int target) {
 
         int right, left;
-        sort(nums.begin(), nums.end());
         left = 0, right = nums.size()-1;
         while(right>=left){
             int mid = left + (right-left)/2;
