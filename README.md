@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HaRsh-init/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/HaRsh-init/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HaRsh-init/LeetCode/tree/master/0231-power-of-two) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HaRsh-init/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
