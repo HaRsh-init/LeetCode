@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HaRsh-init/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/HaRsh-init/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HaRsh-init/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HaRsh-init/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/HaRsh-init/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/HaRsh-init/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/HaRsh-init/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HaRsh-init/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
