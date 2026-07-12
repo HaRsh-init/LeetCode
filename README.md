@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HaRsh-init/LeetCode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/HaRsh-init/LeetCode/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/HaRsh-init/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/HaRsh-init/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HaRsh-init/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HaRsh-init/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HaRsh-init/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HaRsh-init/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/HaRsh-init/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/HaRsh-init/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HaRsh-init/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HaRsh-init/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/HaRsh-init/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/HaRsh-init/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HaRsh-init/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
 |  |
