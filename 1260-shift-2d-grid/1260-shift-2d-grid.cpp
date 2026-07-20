@@ -1,10 +1,5 @@
 class Solution {
 public:
-    void swap(int a, int b){
-        int temp= a;
-        a =b;
-        b = temp;
-    }
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
         int n = grid.size();
         int m = grid[0].size();
