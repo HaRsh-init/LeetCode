@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HaRsh-init/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HaRsh-init/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/HaRsh-init/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/HaRsh-init/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/HaRsh-init/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/HaRsh-init/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Binary Search
 |  |
 | ------- |
