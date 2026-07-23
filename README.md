@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HaRsh-init/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/HaRsh-init/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/HaRsh-init/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1331-rank-transform-of-an-array](https://github.com/HaRsh-init/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HaRsh-init/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HaRsh-init/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/HaRsh-init/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/HaRsh-init/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/HaRsh-init/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HaRsh-init/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HaRsh-init/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/HaRsh-init/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HaRsh-init/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/HaRsh-init/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
 | ------- |
