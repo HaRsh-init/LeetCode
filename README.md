@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/HaRsh-init/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/HaRsh-init/LeetCode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/HaRsh-init/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/HaRsh-init/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/HaRsh-init/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/HaRsh-init/LeetCode/tree/master/0567-permutation-in-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HaRsh-init/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/HaRsh-init/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/HaRsh-init/LeetCode/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/HaRsh-init/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/HaRsh-init/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/HaRsh-init/LeetCode/tree/master/0567-permutation-in-string) |
