@@ -11,6 +11,13 @@ public:
                 break;
             }
         }
-        return num.substr(0, ind+1);
+        // if there would have been leading zeroes:
+
+        i=0;
+        for(int i; i<ind; i++){
+            if(num[i]-'0' == 0) continue;
+            else break;
+        }
+        return num.substr(i, ind-i+1);
     }
 };
