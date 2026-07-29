@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HaRsh-init/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/HaRsh-init/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/HaRsh-init/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/HaRsh-init/LeetCode/tree/master/0048-rotate-image) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HaRsh-init/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/HaRsh-init/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/HaRsh-init/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/HaRsh-init/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/HaRsh-init/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/HaRsh-init/LeetCode/tree/master/0242-valid-anagram) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HaRsh-init/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HaRsh-init/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
